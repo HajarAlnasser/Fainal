@@ -1,0 +1,17 @@
+{
+    "name": "Player",
+    "maps": [],
+    "controlSchemes": [
+        {
+            "name": "GamePade",
+            "bindingGroup": "GamePade",
+            "devices": [
+                {
+                    "devicePath": "<Gamepad>",
+                    "isOptional": false,
+                    "isOR": false
+                }
+            ]
+        }
+    ]
+}
